@@ -6,7 +6,7 @@ from pathlib import Path
 from collections import OrderedDict
 import re
  
-from print_utils import *
+from utils.print_utils import *
 
 
 PRESENT_POKEMON = bcolors.BLUE
