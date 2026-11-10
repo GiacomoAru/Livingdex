@@ -1,0 +1,188 @@
+id,Icon,Name,I_R,I_G,I_B,I_Y,II_G,II_S,II_C,III_R,III_S,III_FR,III_LG,III_E,Colosseum,XD,IV_D,IV_PR,IV_PL,IV_HG,IV_SS,V_B,V_W,V_B2,V_W2,VI_X,VI_Y,VI_OR,VI_AS,VII_S,VII_M,VII_US,VII_UM,VII_LGP,VII_LGE,VIII_SW,VIII_SH,VIII_BD,VIII_SP,VIII_LA,IX_SCA,IX_VIO
+0001,Bulbasaur,Bulbasaur,R,R,R,R,Ev,Ev,Ev,Ev,Ev,R,R,Ev,T,T,T,T,T,R,R,Ev,Ev,Ev,Ev,R,R,Ev,Ev,T,T,S,S,C,C,RD,RD,C,C,—,CD,CD
+0002,Ivysaur,Ivysaur,E,E,E,E,EvE,EvE,EvE,EvE,EvE,E,E,EvE,T,T,T,T,T,E,E,EvE,EvE,EvE,EvE,E,E,EvE,EvE,T,T,E,E,E,E,DA,DA,E,E,—,ED,ED
+0003,Venusaur,Venusaur,E,E,E,E,Ev,Ev,Ev,EvE,EvE,E,E,EvE,T,T,T,T,T,E,E,EvE,EvE,EvE,EvE,E,E,Ev,Ev,T,T,E,E,E,E,DD,DD,E,E,—,ED,ED
+0004,Charmander,Charmander,R,R,R,R,Ev,Ev,Ev,Ev,Ev,R,R,Ev,T,T,Ev,Ev,Ev,R,R,Ev,Ev,Ev,Ev,R,R,Ev,Ev,EvB,EvB,S,S,C,C,R,R,C,C,—,CD,CD
+0005,Charmeleon,Charmeleon,E,E,E,E,EvE,EvE,EvE,EvE,EvE,E,E,EvE,T,T,EvE,EvE,EvE,E,E,EvE,EvE,EvE,EvE,E,E,EvE,EvE,EvB,EvB,E,E,E,E,D,D,E,E,—,ED,ED
+0006,Charizard,Charizard,E,E,E,E,Ev,Ev,Ev,Ev,Ev,E,E,Ev,T,T,EvE,EvE,EvE,E,E,EvE,EvE,EvE,EvE,E,E,Ev,Ev,Ev,Ev,E,E,C,C,D,D,E,E,—,ED,ED
+0007,Squirtle,Squirtle,R,R,R,R,Ev,Ev,Ev,Ev,Ev,R,R,Ev,T,T,T,T,T,R,R,Ev,Ev,Ev,Ev,R,R,Ev,Ev,T,T,S,S,C,C,RD,RD,C,C,—,CD,CD
+0008,Wartortle,Wartortle,E,E,E,E,EvE,EvE,EvE,EvE,EvE,E,E,EvE,T,T,T,T,T,E,E,EvE,EvE,EvE,EvE,E,E,EvE,EvE,T,T,E,E,E,E,DA,DA,E,E,—,ED,ED
+0009,Blastoise,Blastoise,E,E,E,E,Ev,Ev,Ev,Ev,Ev,E,E,Ev,T,T,T,T,T,E,E,EvE,EvE,EvE,EvE,E,E,Ev,Ev,T,T,E,E,E,E,DD,DD,E,E,—,ED,ED
+0010,Caterpie,Caterpie,C,C,C,C,C,C,C,T,T,C,C,T,T,T,D,D,D,C,C,DWB,B,T,B,C,C,T,T,C,C,C,C,C,C,C,C,C,T,—,—,—
+0011,Metapod,Metapod,C,C,C,C,C,C,C,T,T,C,C,T,T,T,D,D,D,C,C,DWB,C,T,B,E,C,T,T,C,C,C,C,C,C,C,C,E,T,—,—,—
+0012,Butterfree,Butterfree,E,E,E,E,C,C,C,T,T,E,E,T,T,S,DE,DE,DE,C,C,DW,C,T,C,E,E,T,T,C,C,C,C,C,E,C,C,E,T,—,—,—
+0013,Weedle,Weedle,C,C,C,T,C,C,C,T,T,C,C,T,T,T,D,D,D,C,C,B,DWB,B,T,C,C,B,B,T,T,B,B,C,C,—,—,T,C,—,—,—
+0014,Kakuna,Kakuna,C,C,C,T,C,C,C,T,T,C,C,T,T,T,D,D,D,C,C,C,DWB,B,T,C,E,C,C,T,T,B,B,C,C,—,—,T,E,—,—,—
+0015,Beedrill,Beedrill,E,E,E,T,C,C,C,T,T,E,E,T,T,S,DE,DE,DE,C,C,C,DW,C,T,E,E,E,E,T,T,S,S,E,C,—,—,T,E,—,—,—
+0016,Pidgey,Pidgey,C,C,C,C,C,C,C,T,T,C,C,T,T,T,S,S,C,C,C,DW,C,DW,DW,C,C,B,B,T,T,B,B,C,C,—,—,S,S,—,—,—
+0017,Pidgeotto,Pidgeotto,C,C,C,C,C,C,C,T,T,C,C,T,T,S,E,E,E,C,C,DWE,E,DWE,DWE,E,E,C,C,T,T,B,B,C,C,—,—,E,E,—,—,—
+0018,Pidgeot,Pidgeot,E,E,E,E,E,E,E,T,T,E,E,T,T,E,E,E,E,E,E,DWE,E,DWE,DWE,E,E,E,E,T,T,S,S,C,C,—,—,E,E,—,—,—
+0019,Rattata,Rattata,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,B,B,C,C,T,T,C,C,T,T,T,T,C,C,—,—,C,C,—,—,—
+0019,Rattata,Rattata(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,R,R,—,—,—,—,—,—,—
+0020,Raticate,Raticate,C,C,C,C,C,C,C,T,T,C,C,T,T,S,C,C,C,C,C,C,C,C,C,T,T,C,C,T,T,T,T,C,C,—,—,C,C,—,—,—
+0020,Raticate,Raticate(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,E,E,—,—,—,—,—,—,—
+0021,Spearow,Spearow,C,C,C,C,C,C,C,T,T,C,C,T,T,S,C,C,C,C,C,B,B,B,B,B,B,T,T,C,C,C,C,C,C,—,—,C,C,—,—,—
+0022,Fearow,Fearow,C,C,C,C,C,C,C,T,T,C,C,T,T,E,C,C,C,C,C,C,C,S,S,C,C,T,T,C,C,C,C,C,C,—,—,C,C,—,—,—
+0023,Ekans,Ekans,C,T,T,T,R,C,C,Ev,Ev,C,Ev,Ev,T,T,D,D,D,C,C,DW,DW,DW,DW,C,C,T,T,T,T,C,C,T,C,—,—,C,T,—,CD,CD
+0024,Arbok,Arbok,C,T,T,T,E,C,C,EvE,EvE,C,EvE,EvE,T,S,D,D,D,C,C,DWE,DWE,DWE,DWE,C,C,T,T,T,T,R,R,T,C,—,—,E,T,—,CD,CD
+0025,Pikachu,Pikachu,C,C,C,R,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,Ev,Ev,Ev,Ev,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+0026,Raichu,Raichu,C,C,C,EvE,E,E,E,E,E,E,E,E,T,T,E,E,E,E,E,EvE,EvE,EvE,EvE,E,E,E,E,T,T,E,E,E,E,D,D,E,E,C,C,C
+0026,Raichu,Raichu(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,E,E,E,E,R,R,RD,RD,—,—,—,EVD,EVD
+0027,Sandshrew,Sandshrew,T,C,C,C,C,R,C,C,C,Ev,C,C,T,C,D,D,D,C,C,B,B,C,C,B,B,C,C,T,T,T,T,C,T,CD,CD,T,C,—,CD,CD
+0027,Sandshrew,Sandshrew(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,T,C,T,C,R,T,RD,RD,—,—,—,CCD,CD
+0028,Sandslash,Sandslash,T,C,C,C,C,E,C,E,E,EvE,C,E,T,E,D,D,D,C,C,C,C,C,C,C,C,E,E,T,T,T,T,E,T,CD,CD,T,C,—,CD,CD
+0028,Sandslash,Sandslash(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,T,E,T,E,E,T,ED,ED,—,—,—,CCD,CD
+0029,Nidoran♀,Nidoran♀,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DW,C,C,C,C,C,T,T,T,T,EvB,EvB,C,C,CD,CD,C,C,—,—,—
+0030,Nidorina,Nidorina,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DWE,E,E,E,C,C,T,T,T,T,EvB,EvB,C,C,CD,CD,C,C,—,—,—
+0031,Nidoqueen,Nidoqueen,E,E,E,E,E,E,E,T,T,E,E,T,T,T,E,E,E,E,E,DWE,E,E,E,E,E,T,T,T,T,EvB,EvB,C,C,CD,CD,E,E,—,—,—
+0032,Nidoran♂,Nidoran♂,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DW,C,C,C,C,C,T,T,T,T,EvB,EvB,C,C,CD,CD,C,C,—,—,—
+0033,Nidorino,Nidorino,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DWE,E,E,E,C,C,T,T,T,T,EvB,EvB,C,C,CD,CD,C,C,—,—,—
+0034,Nidoking,Nidoking,E,E,E,E,E,E,E,T,T,E,E,T,T,T,E,E,E,E,E,DWE,E,E,E,E,E,T,T,T,T,Ev,Ev,C,C,CD,CD,E,E,—,—,—
+0035,Clefairy,Clefairy,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,C,C,C,C,FS,FS,C,C,C,C,C,C,C,C,C,C,C,C,C,CD,CD
+0036,Clefable,Clefable,E,E,R,E,E,E,E,T,T,E,E,T,T,T,E,E,E,E,E,C,C,C,C,FSE,FSE,E,E,E,E,E,E,C,C,C,C,E,E,C,CD,CD
+0037,Vulpix,Vulpix,T,C,T,R,T,C,T,C,C,Ev,C,C,T,S,D,D,D,T,C,C,C,C,C,FSB,FSB,C,C,T,T,T,T,T,C,C,C,T,C,C,CD,CD
+0037,Vulpix,Vulpix(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,Ev,C,T,T,R,RD,RD,—,—,R,CD,CCD
+0038,Ninetales,Ninetales,T,E,T,E,T,E,T,E,E,EvE,E,E,T,E,DE,DE,DE,T,E,C,C,C,C,FS,FS,E,E,T,T,T,T,T,C,C,D,T,E,C,CD,CD
+0038,Ninetales,Ninetales(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,E,EvE,E,T,T,E,ED,ED,—,—,E,CD,CCD
+0039,Jigglypuff,Jigglypuff,C,C,C,C,C,C,C,C,C,C,C,C,T,T,S,S,S,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,CD,CD,S,S,—,C,C
+0040,Wigglytuff,Wigglytuff,C,C,C,R,E,E,E,E,E,E,E,E,T,T,E,E,E,E,E,C,C,C,C,E,E,E,E,E,E,E,E,E,E,CD,CD,E,E,—,C,C
+0041,Zubat,Zubat,C,C,C,C,C,C,C,C,C,C,C,C,T,C,C,C,C,C,C,B,B,C,C,C,C,C,C,C,C,C,C,C,C,CD,CD,C,C,C,—,—
+0042,Golbat,Golbat,C,C,C,C,C,C,C,C,C,C,C,C,T,E,C,C,C,C,C,C,C,C,C,E,E,C,C,C,C,C,C,C,C,CD,CD,C,C,C,—,—
+0043,Oddish,Oddish,C,T,C,C,C,C,C,C,C,C,Ev,C,T,T,C,C,C,C,C,DW,C,DW,DW,C,C,C,C,T,T,T,T,C,T,C,C,C,C,—,CD,CD
+0044,Gloom,Gloom,C,T,C,C,C,C,C,C,C,C,EvE,C,T,T,C,C,C,C,C,DWE,E,DWE,DWE,E,E,C,C,T,T,T,T,C,T,C,C,C,C,—,CD,CD
+0045,Vileplume,Vileplume,E,T,E,E,E,E,E,E,E,E,EvE,E,T,T,E,E,E,E,E,DWE,E,DWE,DWE,E,E,E,E,T,T,T,T,C,T,C,C,E,E,—,CD,CD
+0046,Paras,Paras,C,C,C,C,C,C,C,T,T,C,C,T,T,S,S,S,S,C,C,DW,S,DW,DW,FS,FS,C,C,C,C,C,C,C,C,—,—,S,S,C,—,—
+0047,Parasect,Parasect,C,C,C,C,E,E,C,T,T,C,C,T,T,E,E,E,E,C,C,DWE,E,DWE,DWE,FSE,FSE,E,E,E,E,C,C,E,E,—,—,E,E,C,—,—
+0048,Venonat,Venonat,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,B,B,C,C,FSB,FSB,B,B,T,T,T,T,C,C,—,—,C,C,—,C,C
+0049,Venomoth,Venomoth,C,C,C,C,C,C,C,T,T,C,C,T,T,S,C,C,C,C,C,C,C,E,E,FS,FS,C,C,T,T,T,T,C,C,—,—,C,C,—,C,C
+0050,Diglett,Diglett,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DW,DW,DW,DW,B,B,C,C,T,T,T,T,C,C,C,C,C,C,—,C,C
+0050,Diglett,Diglett(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,R,R,RD,RD,—,—,—,CD,CD
+0051,Dugtrio,Dugtrio,C,C,C,C,C,C,C,T,T,C,C,T,T,S,C,C,C,C,C,DWE,DWE,DWE,DWE,C,C,E,E,T,T,T,T,C,C,C,C,C,C,—,C,C
+0051,Dugtrio,Dugtrio(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,E,E,ED,ED,—,—,—,CD,CD
+0052,Meowth,Meowth,T,C,C,T,T,C,C,Ev,Ev,C,C,R,T,S,S,S,S,T,C,DW,DW,R,R,T,T,B,B,T,T,T,T,T,C,R,R,S,S,—,C,C
+0052,Meowth,Meowth(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,T,R,RD,RD,—,—,—,T,T
+0052,Meowth,Meowth(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,—,—,—,R,R
+0053,Persian,Persian,T,E,E,T,T,C,C,EvE,EvE,C,C,E,T,E,E,E,E,T,C,DWE,DWE,E,E,T,T,C,C,T,T,T,T,R,E,E,E,E,E,—,C,C
+0053,Persian,Persian(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,E,E,C,C,T,E,ED,ED,—,—,—,T,T
+0054,Psyduck,Psyduck,C,C,C,C,C,C,C,C,C,C,Ev,C,T,T,C,C,C,C,C,B,B,C,C,C,C,C,C,C,C,C,C,C,C,CD,CD,C,C,C,C,C
+0055,Golduck,Golduck,C,C,E,C,C,C,C,C,C,C,EvE,C,T,S,C,C,C,C,C,C,C,C,C,E,E,E,E,C,C,C,C,C,C,CD,CD,E,E,C,C,C
+0056,Mankey,Mankey,C,T,T,C,C,T,T,T,T,C,C,T,T,T,C,C,C,C,T,S,S,R,R,FS,FS,C,C,C,C,C,C,C,T,—,—,C,C,—,C,C
+0057,Primeape,Primeape,E,T,T,C,C,T,T,T,T,C,C,T,T,S,C,C,C,C,T,E,E,E,E,FSE,FSE,E,E,C,C,C,C,E,T,—,—,C,C,—,C,C
+0058,Growlithe,Growlithe,C,T,C,C,C,T,C,Ev,Ev,C,Ev,Ev,T,S,D,D,D,C,T,DW,DW,C,C,FS,FS,C,C,C,C,C,C,C,T,C,C,C,T,—,C,C
+0058,Growlithe,Growlithe(Hisuian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,RD,RD
+0059,Arcanine,Arcanine,E,T,E,E,E,T,E,EvE,EvE,E,EvE,EvE,T,E,DE,DE,DE,E,T,DWE,DWE,E,E,FSE,FSE,E,E,E,E,E,E,C,R,D,C,E,T,—,C,C
+0059,Arcanine,Arcanine(Hisuian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,ED,ED
+0060,Poliwag,Poliwag,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,CD,CD,C,C,—,CD,CD
+0061,Poliwhirl,Poliwhirl,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,C,C,C,C,C,C,T,T,R,R,C,C,C,C,CD,CD,C,C,—,CD,CD
+0062,Poliwrath,Poliwrath,E,E,E,E,E,E,E,T,T,E,E,T,T,S,E,E,E,E,E,C,C,C,C,C,C,T,T,C,C,C,C,C,C,CD,CD,E,E,—,CD,CD
+0063,Abra,Abra,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,DW,C,B,B,C,C,C,C,C,C,C,C,C,C,CD,CD,C,C,C,—,—
+0064,Kadabra,Kadabra,C,C,C,C,C,C,C,E,E,C,C,E,T,T,C,C,C,C,C,DW,E,B,B,E,E,E,E,C,C,E,E,C,C,CD,CD,C,C,C,—,—
+0065,Alakazam,Alakazam,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,T,T,ET,ET,ET,ET,ET,DWET,ET,R,R,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,CD,CD,ET,ET,C,—,—
+0066,Machop,Machop,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,DW,C,DW,DW,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,—,—
+0067,Machoke,Machoke,C,C,C,C,C,C,C,E,E,C,C,E,T,T,C,C,C,C,C,DWE,E,DWE,DWE,E,E,E,E,C,C,C,C,C,C,C,C,C,C,C,—,—
+0068,Machamp,Machamp,ET,ET,ET,R,ET,ET,ET,ET,ET,ET,ET,ET,T,T,ET,ET,ET,ET,ET,DWET,ET,DWET,DWET,ET,ET,ET,ET,ET,ET,ET,ET,ET,ET,C,C,ET,ET,C,—,—
+0069,Bellsprout,Bellsprout,T,C,T,C,C,C,C,Ev,Ev,Ev,C,Ev,T,T,C,C,C,C,C,DW,C,DW,DW,C,C,T,T,S,S,T,T,T,C,—,—,C,C,—,CD,CD
+0070,Weepinbell,Weepinbell,T,C,T,C,C,C,C,EvE,EvE,EvE,C,EvE,T,S,C,C,C,C,C,DWE,E,DWE,DWE,C,C,T,T,E,E,T,T,T,C,—,—,C,C,—,CD,CD
+0071,Victreebel,Victreebel,T,E,T,E,E,E,E,EvE,EvE,EvE,E,EvE,T,E,E,E,E,E,E,DWE,E,DWE,DWE,E,E,T,T,E,E,T,T,T,C,—,—,E,E,—,CD,CD
+0072,Tentacool,Tentacool,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,DW,DW,DW,DW,C,C,C,C,C,C,C,C,C,C,CD,CD,C,C,C,CD,CD
+0073,Tentacruel,Tentacruel,E,E,E,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,DWE,DWE,DWE,DWE,E,E,C,C,C,C,C,C,C,C,CD,CD,C,C,C,CD,CD
+0074,Geodude,Geodude,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,B,B,DW,DW,C,C,C,C,T,T,T,T,C,C,—,—,C,C,C,CD,CD
+0074,Geodude,Geodude(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,B,B,R,R,—,—,—,—,—,CD,CD
+0075,Graveler,Graveler,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,C,DWE,DWE,C,C,C,C,T,T,T,T,C,C,—,—,C,C,C,CD,CD
+0075,Graveler,Graveler(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,E,E,—,—,—,—,—,CD,CD
+0076,Golem,Golem,ET,ET,R,ET,ET,ET,ET,ET,ET,ET,ET,ET,T,T,ET,ET,ET,ET,ET,ET,ET,DWET,DWET,ET,ET,ET,ET,T,T,T,T,ET,ET,—,—,ET,ET,C,CD,CD
+0076,Golem,Golem(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,R,R,ET,ET,ET,ET,—,—,—,—,—,CD,CD
+0077,Ponyta,Ponyta,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,B,B,DW,DW,FS,FS,C,C,T,T,T,T,C,C,T,RD,C,C,C,—,—
+0077,Ponyta,Ponyta(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,T,C,—,—,—,—,—
+0078,Rapidash,Rapidash,E,E,C,E,C,C,C,T,T,C,C,T,T,S,E,E,E,C,C,C,C,DWE,DWE,FSE,FSE,E,E,T,T,T,T,C,C,T,ED,E,E,C,—,—
+0078,Rapidash,Rapidash(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,T,D,—,—,—,—,—
+0079,Slowpoke,Slowpoke,C,C,C,C,C,C,C,Ev,Ev,Ev,C,Ev,T,T,T,C,C,C,C,C,C,S,S,C,C,C,C,C,C,C,C,C,C,RD,RD,T,C,—,C,C
+0079,Slowpoke,Slowpoke(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,—,—,—,CD,CD
+0080,Slowbro,Slowbro,C,C,C,C,C,C,C,EvE,EvE,EvE,C,EvE,T,T,T,E,E,C,C,C,C,E,E,E,E,E,E,C,C,C,C,C,C,DA,DA,T,E,—,C,C
+0080,Slowbro,Slowbro(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,ED,ED,—,—,—,CD,CD
+0081,Magnemite,Magnemite,C,C,C,C,C,C,C,C,C,C,C,C,T,T,S,S,C,C,C,DW,C,C,C,B,B,C,C,C,C,C,C,C,C,CD,CD,C,C,C,C,C
+0082,Magneton,Magneton,C,C,C,C,E,E,R,C,C,C,C,C,T,S,E,E,C,C,C,DWE,E,C,C,C,C,E,E,E,E,E,E,C,C,CD,CD,E,E,C,C,C
+0083,Farfetch'd,Farfetch'd,R,R,R,C,C,C,C,T,T,R,R,T,T,S,S,S,S,C,C,S,S,S,S,C,C,T,T,T,T,T,T,C,C,RD,T,C,C,—,—,—
+0083,Farfetch'd,Farfetch'd(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,T,—,—,—,—,—
+0084,Doduo,Doduo,C,C,C,C,C,C,C,C,C,C,C,C,T,T,S,S,S,C,C,S,S,S,S,C,C,C,C,T,T,T,T,C,C,—,—,C,C,—,CD,CD
+0085,Dodrio,Dodrio,C,C,C,C,C,C,C,C,C,E,E,C,T,S,E,E,E,C,C,E,E,E,E,E,E,E,E,T,T,T,T,C,C,—,—,E,E,—,CD,CD
+0086,Seel,Seel,C,C,C,C,C,C,C,T,T,C,C,T,T,S,C,T,B,C,C,C,C,C,C,FSB,FSB,C,C,T,T,C,C,C,C,—,—,C,T,—,CD,CD
+0087,Dewgong,Dewgong,C,C,C,C,E,E,E,T,T,C,C,T,T,E,C,T,C,C,C,C,C,C,C,FS,FS,C,C,T,T,E,E,C,C,—,—,C,T,—,CD,CD
+0088,Grimer,Grimer,C,C,C,C,C,C,C,C,C,C,C,C,T,S,C,C,C,C,C,DW,DW,C,C,FSB,FSB,C,C,T,T,T,T,C,T,—,—,C,C,—,C,C
+0088,Grimer,Grimer(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,R,T,—,—,—,—,—,CD,CD
+0089,Muk,Muk,C,C,C,C,C,C,C,E,E,E,C,E,T,E,E,E,E,C,C,DWE,DWE,C,C,FS,FS,E,E,T,T,T,T,C,T,—,—,E,E,—,C,C
+0089,Muk,Muk(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,E,E,E,E,E,T,—,—,—,—,—,CD,CD
+0090,Shellder,Shellder,C,C,C,C,C,C,C,Ev,Ev,C,Ev,Ev,T,S,C,C,C,C,C,C,C,C,C,FSB,C,T,T,C,C,C,C,C,C,C,C,C,C,—,C,C
+0091,Cloyster,Cloyster,E,E,E,E,E,E,E,EvE,EvE,E,EvE,EvE,T,E,E,E,E,E,E,C,C,C,C,FS,C,T,T,E,E,E,E,C,C,C,C,E,E,—,C,C
+0092,Gastly,Gastly,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DW,C,DW,DW,B,B,EvB,EvB,C,C,C,C,C,C,C,C,C,C,C,C,C
+0093,Haunter,Haunter,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,DWE,E,DWE,DWE,C,C,EvB,EvB,C,C,C,C,C,C,C,C,E,E,C,C,C
+0094,Gengar,Gengar,ET,ET,R,ET,ET,ET,ET,T,T,ET,ET,T,T,T,D,D,D,ET,ET,DWET,ET,DWET,DWET,ET,ET,Ev,Ev,C,C,C,C,ET,ET,C,C,ET,ET,C,C,C
+0095,Onix,Onix,C,C,C,C,C,C,C,T,T,C,C,T,T,T,C,C,C,C,C,C,C,C,C,C,C,C,C,T,T,S,S,C,C,C,C,C,C,C,—,—
+0096,Drowzee,Drowzee,C,C,C,C,C,C,C,T,T,C,C,T,T,T,S,S,S,C,C,DW,DW,B,B,FS,FS,B,B,C,C,C,C,C,C,—,—,C,C,—,C,C
+0097,Hypno,Hypno,C,C,C,E,C,C,C,T,T,C,C,T,T,S,E,E,E,C,C,DWE,DWE,S,S,FSE,FSE,C,C,C,C,C,C,E,E,—,—,E,E,—,C,C
+0098,Krabby,Krabby,C,C,C,C,C,C,C,T,T,C,C,T,T,T,S,S,S,C,C,C,C,C,C,FS,FS,C,C,T,T,T,T,C,C,C,C,C,C,—,—,—
+0099,Kingler,Kingler,C,C,C,C,C,C,C,T,T,E,C,T,T,T,E,E,E,C,C,C,C,C,C,FSE,FSE,E,E,T,T,T,T,C,C,C,C,E,E,—,—,—
+0100,Voltorb,Voltorb,C,C,C,C,C,C,C,C,C,C,C,C,T,S,S,S,S,C,C,DW,DW,DW,DW,B,B,C,C,T,T,B,B,C,C,—,—,C,C,—,C,C
+0100,Voltorb,Voltorb(Hisuian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,EV,EV
+0101,Electrode,Electrode,C,C,C,C,C,C,C,C,C,C,C,C,T,E,E,E,E,C,C,DWE,DWE,DWE,DWE,C,C,C,C,T,T,C,C,C,C,—,—,E,E,—,C,C
+0101,Electrode,Electrode(Hisuian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,EVE,EVE
+0102,Exeggcute,Exeggcute,C,C,C,C,C,C,C,T,T,C,C,T,T,T,S,S,S,C,C,S,S,DW,DW,C,C,T,T,C,C,C,C,C,C,CD,CD,S,S,—,CD,CD
+0103,Exeggutor,Exeggutor,E,E,E,E,E,E,E,T,T,E,E,T,T,S,E,E,E,E,E,E,E,DWE,DWE,E,E,T,T,T,T,E,E,C,C,CD,CD,E,E,—,CD,CD
+0103,Exeggutor,Exeggutor(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,C,C,R,R,RD,RD,—,—,—,CD,CD
+0104,Cubone,Cubone,C,C,C,C,C,C,C,T,T,C,C,T,T,T,S,S,S,C,C,B,B,DW,DW,C,C,T,T,C,C,C,C,C,C,CD,CD,C,C,—,—,—
+0105,Marowak,Marowak,C,C,C,C,C,C,C,T,T,C,C,T,T,S,E,E,E,C,C,C,C,DWE,DWE,E,E,T,T,T,T,E,E,E,E,CD,CD,E,E,—,—,—
+0105,Marowak,Marowak(Alolan Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,E,E,R,E,R,R,RD,RD,—,—,—,—,—
+0106,Hitmonlee,Hitmonlee,R,R,R,R,E,E,E,T,T,R,R,T,T,S,E,E,E,E,E,E,E,DWE,DWE,FSE,FSE,E,E,T,T,T,T,C,C,C,D,E,E,—,CD,CD
+0107,Hitmonchan,Hitmonchan,R,R,R,R,E,E,E,T,T,R,R,T,T,S,E,E,E,E,E,E,E,DWE,DWE,FSE,FSE,E,E,T,T,T,T,C,C,D,C,E,E,—,CD,CD
+0108,Lickitung,Lickitung,R,R,C,C,C,C,C,T,T,R,R,T,T,S,S,S,C,C,C,C,C,C,C,C,C,T,T,T,T,C,C,C,C,CD,CD,C,C,C,—,—
+0109,Koffing,Koffing,C,C,C,T,C,C,C,C,C,C,C,C,T,T,B,B,C,C,C,DW,DW,C,C,T,T,C,C,T,T,T,T,T,C,C,C,B,B,—,CD,CD
+0110,Weezing,Weezing,C,C,C,T,E,E,C,E,E,C,E,E,T,T,C,C,C,C,C,DWE,DWE,C,C,T,T,E,E,T,T,T,T,T,C,RD,RD,C,C,—,CD,CD
+0110,Weezing,Weezing(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,—,—,—,TED,TED
+0111,Rhyhorn,Rhyhorn,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,DW,C,R,R,C,C,C,C,S,S,S,S,C,C,C,C,C,C,C,CD,CD
+0112,Rhydon,Rhydon,C,C,C,C,R,R,C,E,E,E,E,E,T,S,C,C,C,C,C,DW,E,E,E,E,E,E,E,E,E,E,E,C,C,C,C,C,C,C,CD,CD
+0113,Chansey,Chansey,C,C,C,C,C,C,C,Ev,Ev,C,C,Ev,T,S,C,C,C,C,C,DW,E,E,E,FS,FS,E,E,C,C,C,C,C,C,CD,CD,C,C,C,C,C
+0114,Tangela,Tangela,C,C,C,C,C,C,C,T,T,C,C,T,T,S,Ev,Ev,C,C,C,C,C,C,C,FS,FS,C,C,T,T,T,T,C,C,CD,CD,C,C,C,—,—
+0115,Kangaskhan,Kangaskhan,C,C,R,C,C,C,C,Ev,Ev,C,C,Ev,T,S,S,S,S,C,C,C,C,DW,DW,C,C,Ev,Ev,C,C,C,C,C,C,CD,CD,S,S,—,—,—
+0116,Horsea,Horsea,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,C,C,C,C,C,C,C,S,S,S,S,C,C,CD,CD,C,C,—,CD,CD
+0117,Seadra,Seadra,C,C,C,C,C,C,C,E,E,C,E,E,T,T,C,C,C,C,C,C,C,C,C,C,C,C,C,E,E,E,E,C,C,CD,CD,C,C,—,CD,CD
+0118,Goldeen,Goldeen,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,—,—,—
+0119,Seaking,Seaking,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,—,—,—
+0120,Staryu,Staryu,C,C,C,C,C,C,C,C,C,Ev,C,C,T,T,C,C,C,C,C,C,C,C,C,C,T,C,C,C,C,C,C,C,C,CD,CD,C,C,—,—,—
+0121,Starmie,Starmie,E,E,E,E,E,E,E,E,E,EvE,E,E,T,S,E,E,E,E,E,C,C,C,C,C,T,E,E,C,C,C,C,C,C,CD,CD,E,E,—,—,—
+0122,Mr. Mime,Mr. Mime,R,R,R,R,C,C,C,T,T,R,R,T,T,S,C,E,C,C,C,DW,DW,DW,S,C,C,T,T,T,T,C,C,C,C,R,R,C,C,C,—,—
+0122,Mr. Mime,Mr. Mime(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C,—,—,—,—,—
+0123,Scyther,Scyther,C,T,C,C,C,C,C,Ev,Ev,C,Ev,Ev,T,S,C,EvB,C,C,C,DW,DW,DW,DW,C,C,T,T,C,C,C,C,C,T,CD,CD,C,T,C,C,C
+0124,Jynx,Jynx,R,R,C,T,C,C,C,T,T,R,R,T,T,T,E,E,C,C,C,C,C,DRE,DRE,C,C,T,T,T,T,C,C,C,C,CD,CD,E,E,—,—,—
+0125,Electabuzz,Electabuzz,C,T,T,T,C,C,C,Ev,Ev,C,Ev,Ev,T,S,DE,DE,C,C,C,DWE,E,DWE,E,FS,FS,E,E,C,C,C,C,C,C,CD,CD,E,T,C,CD,CD
+0126,Magmar,Magmar,T,C,T,T,C,C,C,Ev,Ev,Ev,C,Ev,T,S,DE,DE,C,C,C,DWE,E,E,DWE,FS,FS,E,E,C,C,C,C,C,C,CD,CD,T,E,C,CD,CD
+0127,Pinsir,Pinsir,T,C,C,C,C,C,C,C,C,T,C,C,T,S,T,C,S,C,C,C,C,C,C,C,FS,C,C,C,C,C,C,T,C,CD,T,T,C,—,—,—
+0128,Tauros,Tauros,C,C,R,C,C,C,C,Ev,Ev,C,C,Ev,T,S,C,C,C,C,C,DW,DW,DW,DW,C,C,T,T,C,C,C,C,C,C,CD,CD,C,C,—,CD,CD
+0128,Tauros,Tauros(Paldean Combat Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,C
+0128,Tauros,Tauros(Paldean Blaze Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,C,CC
+0128,Tauros,Tauros(Paldean Aqua Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,CC,C
+0129,Magikarp,Magikarp,C,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,R,R,R,R,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+0130,Gyarados,Gyarados,E,E,E,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,E,E,E,E,C,C,C,C,C,C,E,E,C,C,C,C,C,C,C,C,C
+0131,Lapras,Lapras,R,R,R,R,C,C,C,T,T,C,C,T,T,S,C,C,C,C,C,C,C,C,C,C,C,T,T,C,C,C,C,C,C,C,C,C,C,—,CD,CD
+0132,Ditto,Ditto,C,C,C,C,C,C,C,T,T,C,C,C,T,T,C,C,S,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,—,C,C
+0133,Eevee,Eevee,R,R,R,R,R,R,R,T,T,R,R,T,T,R,C,C,C,R,R,DW,DW,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C,C
+0134,Vaporeon,Vaporeon,E,E,E,E,E,E,E,T,T,E,E,T,T,E,E,E,E,E,E,DWE,DWE,E,E,E,E,E,E,E,E,E,E,E,E,C,C,E,E,C,C,C
+0135,Jolteon,Jolteon,E,E,E,E,E,E,E,T,T,E,E,T,T,E,E,E,E,E,E,DWE,DWE,E,E,E,E,E,E,E,E,E,E,E,E,C,C,E,E,C,C,C
+0136,Flareon,Flareon,E,E,E,E,E,E,E,T,T,E,E,T,T,E,E,E,E,E,E,DWE,DWE,E,E,E,E,E,E,E,E,E,E,E,E,C,C,E,E,C,C,C
+0137,Porygon,Porygon,R,R,R,R,R,R,R,T,T,R,R,T,T,T,S,S,R,R,R,Ev,C,DR,DR,T,T,C,C,R,R,R,R,C,C,RD,RD,S,S,C,CD,CD
+0138,Omanyte,Omanyte,R,R,R,R,Ev,Ev,Ev,T,T,R,R,T,T,T,R,R,R,R,T,R,R,R,R,T,R,T,R,T,T,R,R,R,R,CD,T,R,R,—,—,—
+0139,Omastar,Omastar,E,E,E,E,EvE,EvE,EvE,T,T,E,E,T,T,T,E,E,E,E,T,E,E,E,E,T,E,T,E,T,T,E,E,E,E,CD,T,E,E,—,—,—
+0140,Kabuto,Kabuto,R,R,R,R,Ev,Ev,Ev,T,T,R,R,T,T,T,R,R,R,T,R,R,R,R,R,T,R,R,T,T,T,R,R,R,R,T,CD,R,R,—,—,—
+0141,Kabutops,Kabutops,E,E,E,E,EvE,EvE,EvE,T,T,E,E,T,T,T,E,E,E,T,E,E,E,E,E,T,E,E,T,T,T,E,E,E,E,T,CD,E,E,—,—,—
+0142,Aerodactyl,Aerodactyl,R,R,R,R,R,R,R,T,T,R,R,T,T,T,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,R,CD,CD,R,R,—,—,—
+0143,Snorlax,Snorlax,C,C,C,C,C,C,C,T,T,C,C,T,T,S,E,E,E,C,C,E,E,R,R,C,C,T,T,C,C,C,C,C,C,C,C,E,E,C,CD,CD
+0144,Articuno,Articuno,C,C,C,C,Ev,Ev,Ev,Ev,Ev,C,C,Ev,T,S,T,T,C,C,C,T,T,T,T,C,C,Ev,Ev,T,T,C,C,C,C,DA,DA,T,C,—,CD,CD
+0144,Articuno,Articuno(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,CD,CD,—,—,—,T,T
+0145,Zapdos,Zapdos,C,C,C,C,Ev,Ev,Ev,Ev,Ev,C,C,Ev,T,S,T,T,C,C,C,T,T,T,T,C,C,Ev,Ev,T,T,C,C,C,C,DA,DA,T,C,—,CD,CD
+0145,Zapdos,Zapdos(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,CD,CD,—,—,—,T,T
+0146,Moltres,Moltres,C,C,C,C,Ev,Ev,Ev,Ev,Ev,C,C,Ev,T,S,T,T,C,C,C,T,T,T,T,C,C,Ev,Ev,T,T,C,C,C,C,DA,DA,T,C,—,CD,CD
+0146,Moltres,Moltres(Galarian Form),—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,—,CD,CD,—,—,—,T,T
+0147,Dratini,Dratini,C,C,C,C,C,C,C,EvB,EvB,C,C,EvB,T,T,C,C,C,C,C,C,C,C,C,C,C,EvB,EvB,C,C,C,C,C,C,CD,CD,C,C,—,C,C
+0148,Dragonair,Dragonair,E,E,R,C,C,C,C,EvB,EvB,C,C,EvB,T,T,C,C,C,C,C,C,C,C,C,C,C,EvB,EvB,C,C,C,C,C,C,CD,CD,E,E,—,C,C
+0149,Dragonite,Dragonite,E,E,E,E,E,E,E,Ev,Ev,E,E,Ev,T,S,E,E,E,E,E,C,C,C,C,E,E,Ev,Ev,C,C,C,C,C,C,CD,CD,E,E,—,C,C
+0150,Mewtwo,Mewtwo,C,C,C,C,Ev,Ev,Ev,T,T,C,C,T,T,T,T,T,T,C,C,Ev,Ev,Ev,Ev,C,C,Ev,Ev,T,T,C,C,C,C,DA,DA,C,C,—,EV,EV
+0151,Mew,Mew,Ev,Ev,Ev,Ev,Ev,Ev,Ev,Ev,Ev,Ev,Ev,EV,T,T,Ev,Ev,Ev,Ev,Ev,T,T,T,T,Ev,Ev,Ev,Ev,Ev,Ev,T,T,Ev,Ev,Ev,Ev,CCR,CCR,—,Ev,Ev

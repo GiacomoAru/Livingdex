@@ -1,0 +1,8941 @@
+[
+  {
+    "title": "Kanto 1",
+    "pokemon": [
+      {
+        "id": "bulbasaur",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ivysaur",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "venusaur",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "charmander",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "charmeleon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "charizard",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "squirtle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wartortle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blastoise",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "caterpie",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "metapod",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "butterfree",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weedle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kakuna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "beedrill",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pidgey",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pidgeotto",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pidgeot",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rattata",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raticate",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spearow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fearow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ekans",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arbok",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raichu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandshrew",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandslash",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nidoranf",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nidorina",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto 2",
+    "pokemon": [
+      {
+        "id": "nidoqueen",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nidoranm",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nidorino",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nidoking",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clefairy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clefable",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vulpix",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ninetales",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jigglypuff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wigglytuff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zubat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golbat",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oddish",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gloom",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vileplume",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "paras",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "parasect",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "venonat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "venomoth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "diglett",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dugtrio",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meowth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "persian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "psyduck",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golduck",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mankey",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "primeape",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "growlithe",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arcanine",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poliwag",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto 3",
+    "pokemon": [
+      {
+        "id": "poliwhirl",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poliwrath",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "abra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kadabra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alakazam",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "machop",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "machoke",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "machamp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bellsprout",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weepinbell",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "victreebel",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tentacool",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tentacruel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "geodude",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "graveler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golem",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ponyta",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rapidash",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowpoke",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowbro",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magnemite",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magneton",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "farfetchd",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "doduo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dodrio",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seel",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dewgong",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grimer",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "muk",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shellder",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto 4",
+    "pokemon": [
+      {
+        "id": "cloyster",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gastly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "haunter",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gengar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "onix",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drowzee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hypno",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "krabby",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kingler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "voltorb",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "electrode",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "exeggcute",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "exeggutor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cubone",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "marowak",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hitmonlee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hitmonchan",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lickitung",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "koffing",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weezing",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhyhorn",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhydon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chansey",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tangela",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kangaskhan",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "horsea",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seadra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "goldeen",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seaking",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "staryu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto 5",
+    "pokemon": [
+      {
+        "id": "starmie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mrmime",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scyther",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jynx",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "electabuzz",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magmar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pinsir",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tauros",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magikarp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gyarados",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lapras",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ditto",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eevee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vaporeon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jolteon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flareon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "porygon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "omanyte",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "omastar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kabuto",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kabutops",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aerodactyl",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snorlax",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "articuno",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zapdos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "moltres",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dratini",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dragonair",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dragonite",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mewtwo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto 6",
+    "pokemon": [
+      {
+        "id": "mew",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kanto Females",
+    "pokemon": [
+      {
+        "id": "venusaur-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "butterfree-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rattata-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raticate-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raichu-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zubat-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golbat-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gloom-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vileplume-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kadabra-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alakazam-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "doduo-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dodrio-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hypno-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhyhorn-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhydon-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "goldeen-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seaking-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scyther-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magikarp-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gyarados-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eevee-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Cap Pikachu",
+    "pokemon": [
+      {
+        "id": "pikachu-original",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-hoenn",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-sinnoh",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-unova",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-kalos",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-partner",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikachu-world",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Johto 1",
+    "pokemon": [
+      {
+        "id": "chikorita",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bayleef",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meganium",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cyndaquil",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quilava",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "typhlosion",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "totodile",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "croconaw",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "feraligatr",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sentret",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furret",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hoothoot",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "noctowl",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ledyba",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ledian",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spinarak",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ariados",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "crobat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chinchou",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lanturn",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pichu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cleffa",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "igglybuff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "togepi",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "togetic",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "natu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "xatu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mareep",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flaaffy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ampharos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Johto 2",
+    "pokemon": [
+      {
+        "id": "bellossom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "marill",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "azumarill",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sudowoodo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "politoed",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hoppip",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skiploom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jumpluff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aipom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sunkern",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sunflora",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yanma",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wooper",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quagsire",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "espeon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "umbreon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "murkrow",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowking",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "misdreavus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wobbuffet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "girafarig",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pineco",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "forretress",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dunsparce",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gligar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "steelix",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snubbull",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "granbull",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "qwilfish",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Johto 3",
+    "pokemon": [
+      {
+        "id": "scizor",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shuckle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "heracross",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sneasel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "teddiursa",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ursaring",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slugma",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magcargo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swinub",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "piloswine",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "corsola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "remoraid",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "octillery",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "delibird",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mantine",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skarmory",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "houndour",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "houndoom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kingdra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "phanpy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "donphan",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "porygon2",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stantler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "smeargle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tyrogue",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hitmontop",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "smoochum",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "elekid",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magby",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "miltank",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Johto 4",
+    "pokemon": [
+      {
+        "id": "blissey",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raikou",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "entei",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "suicune",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "larvitar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pupitar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tyranitar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lugia",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hooh",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "celebi",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Johto Females",
+    "pokemon": [
+      {
+        "id": "meganium-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ledyba-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ledian-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "xatu-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sudowoodo-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "politoed-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aipom-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wooper-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quagsire-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "murkrow-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wobbuffet-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "girafarig-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gligar-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "steelix-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scizor-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "heracross-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sneasel-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ursaring-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "piloswine-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "octillery-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "houndoom-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "donphan-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "UnownDex",
+    "pokemon": [
+      {
+        "id": "unown",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-b",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-c",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-d",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-e",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-g",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-h",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-i",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-j",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-k",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-l",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-m",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-n",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-o",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-p",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-q",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-r",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-s",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-t",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-u",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-v",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-w",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-x",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-y",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-z",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-exclamation",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unown-question",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn 1",
+    "pokemon": [
+      {
+        "id": "treecko",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grovyle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sceptile",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "torchic",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "combusken",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blaziken",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mudkip",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "marshtomp",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swampert",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poochyena",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mightyena",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zigzagoon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "linoone",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wurmple",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "silcoon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "beautifly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cascoon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dustox",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lotad",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lombre",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ludicolo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seedot",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nuzleaf",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shiftry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "taillow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wingull",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pelipper",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ralts",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kirlia",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn 2",
+    "pokemon": [
+      {
+        "id": "gardevoir",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "surskit",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "masquerain",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shroomish",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "breloom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slakoth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vigoroth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slaking",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nincada",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ninjask",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shedinja",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "whismur",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "loudred",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "exploud",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "makuhita",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hariyama",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "azurill",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nosepass",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skitty",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "delcatty",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sableye",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mawile",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aron",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lairon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aggron",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meditite",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "medicham",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "electrike",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "manectric",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "plusle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn 3",
+    "pokemon": [
+      {
+        "id": "minun",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "volbeat",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "illumise",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "roselia",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gulpin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swalot",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "carvanha",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sharpedo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wailmer",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wailord",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "numel",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "camerupt",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "torkoal",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spoink",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grumpig",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spinda",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "trapinch",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vibrava",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flygon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cacnea",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cacturne",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swablu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "altaria",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zangoose",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seviper",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lunatone",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "solrock",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "barboach",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "whiscash",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "corphish",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn 4",
+    "pokemon": [
+      {
+        "id": "crawdaunt",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "baltoy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "claydol",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lileep",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cradily",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "anorith",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "armaldo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "feebas",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "milotic",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "castform",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kecleon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shuppet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "banette",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "duskull",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dusclops",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tropius",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chimecho",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "absol",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wynaut",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snorunt",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glalie",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spheal",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sealeo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "walrein",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clamperl",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "huntail",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gorebyss",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "relicanth",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "luvdisc",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bagon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn 5",
+    "pokemon": [
+      {
+        "id": "shelgon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "salamence",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "beldum",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "metang",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "metagross",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "regirock",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "regice",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "registeel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "latias",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "latios",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kyogre",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "groudon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rayquaza",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jirachi",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deoxys",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn Females",
+    "pokemon": [
+      {
+        "id": "torchic-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "combusken-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blaziken-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "beautifly-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dustox-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ludicolo-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nuzleaf-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shiftry-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meditite-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "medicham-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "roselia-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gulpin-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swalot-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "numel-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "camerupt-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cacturne-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "milotic-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "relicanth-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hoenn Alternate",
+    "pokemon": [
+      {
+        "id": "deoxys-attack",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deoxys-defense",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deoxys-speed",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh 1",
+    "pokemon": [
+      {
+        "id": "turtwig",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grotle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "torterra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chimchar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "monferno",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "infernape",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "piplup",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "prinplup",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "empoleon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "starly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "staravia",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "staraptor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bidoof",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bibarel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kricketot",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kricketune",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shinx",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "luxio",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "luxray",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "budew",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "roserade",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cranidos",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rampardos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shieldon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bastiodon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "burmy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wormadam",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mothim",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "combee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vespiquen",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh 2",
+    "pokemon": [
+      {
+        "id": "pachirisu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "buizel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floatzel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cherubi",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cherrim",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shellos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gastrodon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ambipom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drifloon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drifblim",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "buneary",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lopunny",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mismagius",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "honchkrow",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glameow",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "purugly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chingling",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stunky",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skuntank",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bronzor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bronzong",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bonsly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mimejr",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "happiny",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chatot",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spiritomb",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gible",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gabite",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "garchomp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "munchlax",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh 3",
+    "pokemon": [
+      {
+        "id": "riolu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lucario",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hippopotas",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hippowdon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skorupi",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drapion",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "croagunk",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxicroak",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "carnivine",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "finneon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lumineon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mantyke",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snover",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "abomasnow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weavile",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magnezone",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lickilicky",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhyperior",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tangrowth",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "electivire",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magmortar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "togekiss",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yanmega",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "leafeon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glaceon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gliscor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mamoswine",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "porygonz",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gallade",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "probopass",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh 4",
+    "pokemon": [
+      {
+        "id": "dusknoir",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "froslass",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "uxie",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mesprit",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "azelf",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dialga",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "palkia",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "heatran",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "regigigas",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "giratina",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cresselia",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "phione",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "manaphy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "darkrai",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shaymin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arceus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh Fem. 1",
+    "pokemon": [
+      {
+        "id": "starly-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "staravia-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "staraptor-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bidoof-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bibarel-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kricketot-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kricketune-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shinx-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "luxio-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "luxray-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "roserade-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "combee-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pachirisu-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "buizel-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floatzel-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ambipom-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gible-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gabite-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "garchomp-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hippopotas-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hippowdon-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "croagunk-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxicroak-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "finneon-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lumineon-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snover-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "abomasnow-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weavile-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rhyperior-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tangrowth-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh Fem. 2",
+    "pokemon": [
+      {
+        "id": "mamoswine-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Sinnoh Altern.",
+    "pokemon": [
+      {
+        "id": "burmy-sandy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "burmy-trash",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wormadam-sandy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wormadam-trash",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shellos-east",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gastrodon-east",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom-heat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom-wash",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom-frost",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom-fan",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rotom-mow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shaymin-sky",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 1",
+    "pokemon": [
+      {
+        "id": "victini",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snivy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "servine",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "serperior",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tepig",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pignite",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "emboar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oshawott",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dewott",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "samurott",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "patrat",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "watchog",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lillipup",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "herdier",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stoutland",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "purrloin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "liepard",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pansage",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "simisage",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pansear",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "simisear",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "panpour",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "simipour",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "munna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "musharna",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pidove",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tranquill",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "unfezant",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blitzle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zebstrika",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 2",
+    "pokemon": [
+      {
+        "id": "roggenrola",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "boldore",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gigalith",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "woobat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swoobat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drilbur",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "excadrill",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "audino",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "timburr",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gurdurr",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "conkeldurr",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tympole",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "palpitoad",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "seismitoad",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "throh",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sawk",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sewaddle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swadloon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "leavanny",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "venipede",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "whirlipede",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scolipede",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cottonee",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "whimsicott",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "petilil",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lilligant",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "basculin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandile",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "krokorok",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "krookodile",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 3",
+    "pokemon": [
+      {
+        "id": "darumaka",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "darmanitan",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "maractus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dwebble",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "crustle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scraggy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scrafty",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sigilyph",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yamask",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cofagrigus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tirtouga",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "carracosta",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "archen",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "archeops",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "trubbish",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "garbodor",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zorua",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zoroark",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minccino",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cinccino",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gothita",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gothorita",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gothitelle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "solosis",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "duosion",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "reuniclus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ducklett",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swanna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vanillite",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vanillish",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 4",
+    "pokemon": [
+      {
+        "id": "vanilluxe",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deerling",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sawsbuck",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "emolga",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "karrablast",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "escavalier",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "foongus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "amoonguss",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "frillish",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jellicent",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alomomola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "joltik",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "galvantula",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ferroseed",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ferrothorn",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "klink",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "klang",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "klinklang",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tynamo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eelektrik",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eelektross",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "elgyem",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "beheeyem",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "litwick",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lampent",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chandelure",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "axew",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fraxure",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "haxorus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cubchoo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 5",
+    "pokemon": [
+      {
+        "id": "beartic",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cryogonal",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shelmet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "accelgor",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stunfisk",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mienfoo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mienshao",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "druddigon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golett",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golurk",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pawniard",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bisharp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bouffalant",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rufflet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "braviary",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vullaby",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mandibuzz",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "heatmor",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "durant",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deino",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zweilous",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hydreigon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "larvesta",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "volcarona",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cobalion",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "terrakion",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "virizion",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tornadus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "thundurus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "reshiram",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova 6",
+    "pokemon": [
+      {
+        "id": "zekrom",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "landorus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kyurem",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "keldeo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meloetta",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "genesect",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unova Alternate",
+    "pokemon": [
+      {
+        "id": "unfezant-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deerling-summer",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deerling-autumn",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "deerling-winter",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sawsbuck-summer",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sawsbuck-autumn",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sawsbuck-winter",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "frillish-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "jellicent-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "basculin-blue-striped",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tornadus-therian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "thundurus-therian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "landorus-therian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "keldeo-resolute",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kalos 1",
+    "pokemon": [
+      {
+        "id": "chespin",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quilladin",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chesnaught",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fennekin",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "braixen",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "delphox",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "froakie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "frogadier",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "greninja",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bunnelby",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "diggersby",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fletchling",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fletchinder",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "talonflame",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scatterbug",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spewpa",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "litleo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pyroar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flabebe",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floette",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "florges",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skiddo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gogoat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pancham",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pangoro",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "espurr",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meowstic",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "honedge",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kalos 2",
+    "pokemon": [
+      {
+        "id": "doublade",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aegislash",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spritzee",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aromatisse",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "swirlix",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slurpuff",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "inkay",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "malamar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "binacle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "barbaracle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skrelp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dragalge",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clauncher",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clawitzer",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "helioptile",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "heliolisk",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tyrunt",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tyrantrum",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "amaura",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "aurorus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sylveon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hawlucha",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dedenne",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "carbink",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "goomy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sliggoo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "goodra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "klefki",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "phantump",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "trevenant",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kalos 3",
+    "pokemon": [
+      {
+        "id": "pumpkaboo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gourgeist",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bergmite",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "avalugg",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "noibat",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "noivern",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "xerneas",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yveltal",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zygarde",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "diancie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hoopa",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "volcanion",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kalos Alt. 1",
+    "pokemon": [
+      {
+        "id": "greninja--battle-bond",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pyroar-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meowstic-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pumpkaboo-small",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pumpkaboo-large",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pumpkaboo-super",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gourgeist-small",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gourgeist-large",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gourgeist-super",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-heart",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-diamond",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-debutante",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-matron",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-dandy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-la-reine",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-kabuki",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "furfrou-pharaoh",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flabebe-yellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flabebe-orange",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flabebe-blue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flabebe-white",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floette-yellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floette-orange",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floette-blue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floette-white",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "florges-yellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "florges-orange",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "florges-blue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "florges-white",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Kalos Alt. 2",
+    "pokemon": [
+      {
+        "id": "zygarde--power-construct",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zygarde-10",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zygarde-10--power-construct",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hoopa-unbound",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Vivillon Patt.",
+    "pokemon": [
+      {
+        "id": "vivillon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-polar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-tundra",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-continental",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-garden",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-elegant",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-meadow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-modern",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-marine",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-archipelago",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-high-plains",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-sandstorm",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-river",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-monsoon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-savanna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-sun",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-ocean",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-jungle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-fancy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vivillon-pokeball",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alola 1",
+    "pokemon": [
+      {
+        "id": "rowlet",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dartrix",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "decidueye",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "litten",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "torracat",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "incineroar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "popplio",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "brionne",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "primarina",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pikipek",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "trumbeak",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toucannon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yungoos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gumshoos",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grubbin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "charjabug",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vikavolt",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "crabrawler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "crabominable",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oricorio",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cutiefly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ribombee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rockruff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lycanroc",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wishiwashi",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mareanie",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxapex",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mudbray",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mudsdale",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dewpider",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alola 2",
+    "pokemon": [
+      {
+        "id": "araquanid",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fomantis",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lurantis",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "morelull",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shiinotic",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "salandit",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "salazzle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stufful",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bewear",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bounsweet",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "steenee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tsareena",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "comfey",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oranguru",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "passimian",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wimpod",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golisopod",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandygast",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "palossand",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pyukumuku",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "typenull",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "silvally",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-red",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "komala",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "turtonator",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "togedemaru",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mimikyu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bruxish",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drampa",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dhelmise",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alola 3",
+    "pokemon": [
+      {
+        "id": "jangmoo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hakamoo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kommoo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tapukoko",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tapulele",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tapubulu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tapufini",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cosmog",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cosmoem",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "solgaleo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lunala",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nihilego",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "buzzwole",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pheromosa",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "xurkitree",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "celesteela",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kartana",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "guzzlord",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "necrozma",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magearna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "marshadow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poipole",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "naganadel",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stakataka",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blacephalon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zeraora",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alola Alternate",
+    "pokemon": [
+      {
+        "id": "oricorio-pom-pom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oricorio-pau",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oricorio-sensu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rockruff--own-tempo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lycanroc-midnight",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lycanroc-dusk",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-orange",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-yellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-green",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-blue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-indigo",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "minior-violet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "magearna-original",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alolan Forms",
+    "pokemon": [
+      {
+        "id": "rattata-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raticate-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raichu-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandshrew-alola",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandslash-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "vulpix-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ninetales-alola",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "diglett-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dugtrio-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meowth-alola",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "persian-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "geodude-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "graveler-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "golem-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grimer-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "muk-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "exeggutor-alola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "marowak-alola",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Unknown Region",
+    "pokemon": [
+      {
+        "id": "meltan",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "melmetal",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Galar 1",
+    "pokemon": [
+      {
+        "id": "grookey",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "thwackey",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rillaboom",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scorbunny",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "raboot",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cinderace",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sobble",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drizzile",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "inteleon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skwovet",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "greedent",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rookidee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "corvisquire",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "corviknight",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "blipbug",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dottler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "orbeetle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nickit",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "thievul",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gossifleur",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eldegoss",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wooloo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dubwool",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chewtle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drednaw",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yamper",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "boltund",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rolycoly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "carkol",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "coalossal",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Galar 2",
+    "pokemon": [
+      {
+        "id": "applin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flapple",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "appletun",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "silicobra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandaconda",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cramorant",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arrokuda",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "barraskewda",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxtricity",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sizzlipede",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "centiskorch",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clobbopus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grapploct",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sinistea",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "polteageist",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hatenna",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hattrem",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "hatterene",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "impidimp",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "morgrem",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grimmsnarl",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "obstagoon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "perrserker",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cursola",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sirfetchd",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mrrime",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "runerigus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "milcery",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Galar 3",
+    "pokemon": [
+      {
+        "id": "falinks",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pincurchin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "snom",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "frosmoth",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stonjourner",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eiscue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "indeedee",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "morpeko",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cufant",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "copperajah",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dracozolt",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arctozolt",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dracovish",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arctovish",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "duraludon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dreepy",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "drakloak",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dragapult",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zacian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zamazenta",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "eternatus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kubfu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "urshifu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zarude",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "regieleki",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "regidrago",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glastrier",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spectrier",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "calyrex",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Galar Alternate",
+    "pokemon": [
+      {
+        "id": "indeedee-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toxtricity-low-key",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sinistea-antique",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "polteageist-antique",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zarude-dada",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Galarian Forms",
+    "pokemon": [
+      {
+        "id": "meowth-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ponyta-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rapidash-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowpoke-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowbro-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "farfetchd-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "weezing-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mrmime-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "articuno-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zapdos-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "moltres-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slowking-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "corsola-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zigzagoon-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "linoone-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "darumaka-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "darmanitan-galar",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "yamask-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "stunfisk-galar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alcremie 1",
+    "pokemon": [
+      {
+        "id": "alcremie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-vanilla-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-matcha-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-mint-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alcremie 2",
+    "pokemon": [
+      {
+        "id": "alcremie-lemon-cream-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-lemon-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-salted-cream-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-ruby-swirl-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-caramel-swirl-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Alcremie 3",
+    "pokemon": [
+      {
+        "id": "alcremie-rainbow-swirl-strawberry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-berry",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-love",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-star",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-clover",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-flower",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "alcremie-rainbow-swirl-ribbon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Gigantamax 1",
+    "pokemon": [
+      {
+        "id": "venusaur",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "venusaur-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "charizard",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "blastoise",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "butterfree",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "butterfree-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "pikachu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "pikachu-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "meowth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "machamp",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "gengar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "kingler",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "lapras",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "eevee",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "eevee-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "snorlax",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "garbodor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "melmetal",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "rillaboom",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "cinderace",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "inteleon",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "corviknight",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "orbeetle",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "drednaw",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "coalossal",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "flapple",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "appletun",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "sandaconda",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "toxtricity",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "toxtricity-low-key",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gigantamax 2",
+    "pokemon": [
+      {
+        "id": "centiskorch",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "hatterene",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "grimmsnarl",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "alcremie",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "copperajah",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "duraludon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "urshifu",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      },
+      {
+        "id": "urshifu-rapid-strike",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": [
+          "gmax"
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hisui",
+    "pokemon": [
+      {
+        "id": "wyrdeer",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kleavor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ursaluna",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "basculegion",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "basculegion-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sneasler",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "overqwil",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "enamorus",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "enamorus-therian",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Hisuian Forms",
+    "pokemon": [
+      {
+        "id": "growlithe-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arcanine-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "voltorb-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "electrode-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "typhlosion-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "qwilfish-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sneasel-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sneasel-hisui-f",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "samurott-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lilligant-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "basculin-white-striped",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zorua-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "zoroark-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "braviary-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sliggoo-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "goodra-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "avalugg-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "decidueye-hisui",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldea 1",
+    "pokemon": [
+      {
+        "id": "sprigatito",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "floragato",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "meowscarada",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fuecoco",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "crocalor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "skeledirge",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quaxly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quaxwell",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "quaquaval",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lechonk",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "oinkologne",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tarountula",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "spidops",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nymble",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "lokix",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pawmi",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pawmo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "pawmot",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tandemaus",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "maushold",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fidough",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dachsbun",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "smoliv",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dolliv",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arboliva",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "squawkabilly",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "nacli",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "naclstack",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "garganacl",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "charcadet",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldea 2",
+    "pokemon": [
+      {
+        "id": "armarouge",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ceruledge",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tadbulb",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bellibolt",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wattrel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kilowattrel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "maschiff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "mabosstiff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "shroodle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "grafaiai",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bramblin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "brambleghast",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toedscool",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "toedscruel",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "klawf",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "capsakid",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "scovillain",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rellor",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "rabsca",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flittle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "espathra",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tinkatink",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tinkatuff",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tinkaton",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wiglett",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wugtrio",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "bombirdier",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "finizen",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "palafin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "varoom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldea 3",
+    "pokemon": [
+      {
+        "id": "revavroom",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cyclizar",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "orthworm",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glimmet",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "glimmora",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "greavard",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "houndstone",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "flamigo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cetoddle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "cetitan",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "veluza",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dondozo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tatsugiri",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "annihilape",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "clodsire",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "farigiraf",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dudunsparce",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "kingambit",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "greattusk",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "screamtail",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "brutebonnet",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fluttermane",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "slitherwing",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sandyshocks",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "irontreads",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironbundle",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironhands",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironjugulis",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironmoth",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironthorns",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldea 4",
+    "pokemon": [
+      {
+        "id": "frigibax",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "arctibax",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "baxcalibur",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gimmighoul",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gholdengo",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wochien",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chienpao",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tinglu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "chiyu",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "roaringmoon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironvaliant",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "koraidon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "miraidon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "walkingwake",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ironleaves",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dipplin",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poltchageist",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sinistcha",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "okidogi",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "munkidori",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "fezandipiti",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ogerpon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldea Alternate",
+    "pokemon": [
+      {
+        "id": "oinkologne-f",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "maushold-three",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "squawkabilly-blue",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "squawkabilly-yellow",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "squawkabilly-white",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tatsugiri-droopy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tatsugiri-sketchy",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "dudunsparce-three-segment",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "gimmighoul-roaming",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "poltchageist-artisan",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "sinistcha-masterpiece",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "ursaluna-bloodmoon",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  },
+  {
+    "title": "Paldean Forms",
+    "pokemon": [
+      {
+        "id": "tauros-paldea",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tauros-paldea-fire",
+        "captured": false,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "tauros-paldea-water",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      },
+      {
+        "id": "wooper-paldea",
+        "captured": true,
+        "shiny": false,
+        "emblemMarks": []
+      }
+    ]
+  }
+]
